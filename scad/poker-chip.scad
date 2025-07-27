@@ -3,7 +3,7 @@ size = 39; // [30:60]
 
 // Standard poker chips are 3.5mm thick.
 thickness = 3.5;  // [2:.5:6]
-t_emboss = 0.6;
+t_emboss = 0.2;
 
 // Width of the outer rim, used to imprint text
 rim = 3; // [4:10]
