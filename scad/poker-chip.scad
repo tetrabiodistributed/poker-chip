@@ -19,8 +19,8 @@ rim_symbol = "\u2588"; // [\u25CF:Circle, \u25A0:Square, \u25B2:Triangle, \u2660
 makeToken();
 
 module makeToken() {
-  rotate([180])makeTop();
-  makeBottom();
+  makeTop();
+  rotate([180])makeBottom();
 }
 
 module circle() {
