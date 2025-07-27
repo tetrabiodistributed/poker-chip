@@ -1,1 +1,0 @@
-  translate([-17.5,-19.5,0])linear_extrude(1.75) import("../image/tetra_logo2.svg",convexity=30);
